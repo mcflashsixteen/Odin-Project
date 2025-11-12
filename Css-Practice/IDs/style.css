@@ -1,0 +1,25 @@
+body{
+    background-color: #98b9d5;
+}
+
+.odd-numbers{
+    color: white;
+    background-color: #a598d5;
+}
+
+#two{
+    font-size: 90px;
+    color: #3a2c6b;
+}
+
+.odd-numbers.three{
+    font-size: 40px;
+}
+
+#four{
+    font-size: 35px;
+    font-weight: bolder;
+    background-color: #d3c9da;
+ 
+}
+
