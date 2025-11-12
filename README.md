@@ -6,4 +6,7 @@ Html Boilerplate
 Working With Text "Blog" Page  
 Lists  
 Links + Images  
-Odin Recipies Project
+Odin Recipies Project  
+Methods lab  
+Ids Lab  
+Grouping lab
