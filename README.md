@@ -9,4 +9,5 @@ Links + Images
 Odin Recipies Project  
 Methods lab  
 Ids Lab  
-Grouping lab
+Grouping lab  
+Chaining Selectors Lab
