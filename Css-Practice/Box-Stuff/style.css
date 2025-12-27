@@ -1,0 +1,27 @@
+body{
+    background-color: #d699be;
+    padding: 0px;
+    margin: 0px;
+    font-size: 40px;
+    box-sizing: border-box;
+
+}
+
+#box-one{
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+    border: 20px solid #e6c0d7;
+    margin: 60px;
+    background-color: #547862;
+   
+}
+
+#box-two{
+    background-color: #547862;
+     height: 100px;
+    width: 100px;
+    padding: 20px;
+    border: 20px solid #8c697e;
+    margin: 60px;
+}
