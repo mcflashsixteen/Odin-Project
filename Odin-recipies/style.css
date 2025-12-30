@@ -23,16 +23,15 @@ body{
 
 #pie a {
 color: #8d8bd0;
-float: left;
+justify-content: left;
 text-align: left;
 text-decoration: none;
 margin-left: 20px;
 
-
 }
 
 #pork a {
-float: right;
+justify-content: right;
 color:#8d8bd0;
 text-decoration: none;
 margin-right: 20px;
